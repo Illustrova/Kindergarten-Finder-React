@@ -1,0 +1,39 @@
+/* =================== TOOLTIP ======================== */
+
+.tooltip{
+  color:rgba(65, 65, 65, 1) !important;
+  font-size: 1.8em !important;
+}
+.tooltip:hover{
+  color:rgb(80, 80, 80) !important;
+}
+
+.tooltip {
+	position: relative;
+	display: inline-block;
+}
+
+.tooltiptext {
+	visibility: hidden;
+	width: 120px;
+	background-color: rgba(0,0,0,0.5);
+	color: #dde8da;
+	text-align: center;
+	border-radius: 3px;
+	padding: 8px 2px;
+	font-size:11px;
+
+	/* Position the tooltip */
+	position: absolute;
+	z-index: 1;
+	top: -5px;
+	right: 120%;
+}
+.position{
+	top: 2px;
+	left: 120%;
+}
+
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}

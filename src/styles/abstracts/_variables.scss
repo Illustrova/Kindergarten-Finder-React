@@ -1,0 +1,73 @@
+/*========== COLOR SET ==========*/
+$orange: #ef8157;
+$yellow: #fbc658;
+$blue: #51bcda;
+$green: #6bd098;
+$brown: #66615b;
+$grey: #ddd;
+
+$color-primary: $orange;
+$color-secondary: $yellow;
+$color-text: $brown;
+$color-link: $blue;
+$color-border: $grey;
+$color-menuitem: $brown;
+$color-searchbox: $brown;
+
+/*========== TEXT ==========*/
+$font-family-base: "Open Sans", sans-serif;
+// "M PLUS Rounded 1c script=greek rev=3"
+$font-size-base: 14px;
+$font-weight-base: 400;
+$line-height-base: 1.5;
+
+$font-size-h1: 2em;
+$font-size-h2: 2.5em;
+$font-size-h3: 2em;
+$font-size-h4: 1.714em;
+$font-size-h5: 1.57em;
+$font-size-h6: 1em;
+
+/*========== COLORS ==========*/
+$body-color: #2c2c2c;
+$body-bg: #fff;
+
+$search-bg: hsla(0,0%,87%,.3);
+$search-bg-focus: hsla(0,0%,87%,.5);
+$search-border: medium none;
+$search-padding: 11px;
+
+$scrollbar-color: $brown;
+
+/*========== SIDEBAR ==========*/
+$sidebar-bg: #fff;
+$sidebar-width: 300px;
+
+/*========== LINKS ==========*/
+$link-color: $color-link;
+$link-decoration: none;
+
+$link-hover-color: $color-link;
+$link-hover-decoration: underline;
+
+/*========== MARGINS AND PADDINGS ==========*/
+$headings-margin-bottom: 30px;
+$paragraph-margin-bottom: 1rem;
+
+$margin-menu-item: 10px 15px 0;
+
+.caret {
+	display: inline-block;
+	width: 0;
+	height: 0;
+	margin-left: 2px;
+	vertical-align: middle;
+	border-top: 4px dashed;
+	border-top: 4px solid\9;
+	border-right: 4px solid transparent;
+	border-left: 4px solid transparent;
+}
+
+.expand .caret {
+	transform: rotate(180deg);
+}

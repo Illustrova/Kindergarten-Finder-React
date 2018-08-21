@@ -1,0 +1,36 @@
+/* ====================== HEADER ==================== */
+.header{
+	background-color: #fdfdfd;
+	border-bottom: solid 1px #dde8da;
+	overflow:hidden;
+	display: flex;
+	flex-direction:row;
+	justify-content:space-between;
+	align-items:center;
+	width: 100%;
+	top: 0;
+	margin-top: 0;
+	z-index: 2;
+
+	h1, p {
+		margin-bottom: 0.25em;
+	}
+	 h1 {
+		color: $color-primary;
+	 }
+	.header_subtitle {
+		color: $color-text;
+}
+}
+
+.open-menu {
+	margin-right: auto;
+}
+
+.header_text {
+	margin-left: auto;
+	text-align: right;
+	margin-bottom: 0.5em;
+	flex-basis: 600px;
+	padding-right: 0.5em;
+}

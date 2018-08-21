@@ -1,0 +1,1650 @@
+[
+  {
+    "owner": "Αραμπάκος Κωνσταντίνος",
+    "code": 6454,
+    "name": "Παιδικός Σταθμός \"Μαργαρίτα\"",
+    "shortName": "Μαργαρίτα",
+    "postcode": "11143",
+    "address": "Πανδίωνος 12",
+    "town": "Αθήνα",
+    "phones": [
+      "2102584147"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 12,
+        "hours": "07:30 - 16:30"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 46,
+        "hours": "07:30 - 16:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0251517,
+      "long": 23.7349809
+    },
+    "gaddress": "Pandionos 12, Athina 111 43, Greece"
+  },
+  {
+    "owner": "Αικατερίνη Σαρ. Παπαβασιλείου",
+    "code": 20811,
+    "name": "Βρεφονηπιακός Σταθμος \"Πρώτο Βήμα\"",
+    "shortName": "Πρώτο Βήμα",
+    "postcode": "11255",
+    "address": "Πηλίου 6",
+    "town": "Αθήνα",
+    "phones": [
+      "2102280626"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 6,
+        "hours": "07:00 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 31,
+        "hours": "07:00 - 17:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0094139,
+      "long": 23.7356856
+    },
+    "gaddress": "Piliou 6, Athina 112 55, Greece"
+  },
+  {
+    "owner": "Τάντος Ηλίας και ΣΙΑ Ο.Ε",
+    "code": 20846,
+    "name": "Βρεφονηπιακός Σταθμός \"Arcobaleno\"",
+    "shortName": "Arcobaleno",
+    "postcode": "11255",
+    "address": "Καραμήτσα 6",
+    "town": "Αθήνα",
+    "phones": [
+      "2102010357"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 11,
+        "hours": "06:30 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 17,
+        "hours": "06:30 - 17:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0129227,
+      "long": 23.7366911
+    },
+    "gaddress": "Karamitsa 6, Athina 112 55, Greece"
+  },
+  {
+    "owner": "Ελευθεριάδου Πηνελόπη",
+    "code": 20898,
+    "name": "Παιδικός Σταθμός \"Τσαφ Τσουφ\"",
+    "shortName": "Τσαφ Τσουφ",
+    "postcode": "10445",
+    "address": "Γιάνναρη 27",
+    "town": "Αθήνα",
+    "phones": [
+      "2108319991"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 15,
+        "hours": "07:00 - 16:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0102939,
+      "long": 23.7254562
+    },
+    "gaddress": "Giannari 27, Athina 104 45, Greece"
+  },
+  {
+    "owner": "Χριστίνα Γ. Παρλαμέντη Ο.Ε\nΒρεφονηπιακός Σταθμός \"Ηλιαχτίδα -\nΣτοργή\"",
+    "code": 21502,
+    "name": "Βρεφονηπιακός Σταθμός \"Ηλιαχτίδα - Στοργή\"",
+    "shortName": "Ηλιαχτίδα - Στοργή",
+    "postcode": "10440",
+    "address": "Αριστομένους 49",
+    "town": "Αθήνα",
+    "phones": [
+      "2108823590"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 14,
+        "hours": "07:00 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 28,
+        "hours": "07:00 - 17:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.9959758,
+      "long": 23.7237224
+    },
+    "gaddress": "Aristomenous 49, Athina 104 40, Greece"
+  },
+  {
+    "owner": "Προσχολική Αγωγή Γ. Κωβαίος και\nΣΙΑ Ο.Ε.",
+    "code": 21786,
+    "name": "Προσχολική Αγωγή ''Το Γελαστό Πορτοκάλι'' (Αγίας Λαύρας)",
+    "shortName": "Το Γελαστό Πορτοκάλι",
+    "postcode": "11141",
+    "address": "Αγίας Λαύρας 54",
+    "town": "Αθήνα",
+    "phones": [
+      "2102022144"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 8,
+        "hours": "07:30 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 25,
+        "hours": "07:30 - 17:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0210624,
+      "long": 23.7394487
+    },
+    "gaddress": "Agias Lavras 54, Athina 111 41, Greece"
+  },
+  {
+    "owner": "Προσχολική Αγωγή Γ. Κωβαίος και\nΣΙΑ Ο.Ε.",
+    "code": 53375,
+    "name": "Προσχολική Αγωγή ''Το Γελαστό Πορτοκάλι'' (Πολυλά)",
+    "shortName": "Το Γελαστό Πορτοκάλι",
+    "postcode": "11141",
+    "address": "Πολυλά 28",
+    "town": "Αθήνα",
+    "phones": [
+      "2102020489",
+      "6972030438"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 11,
+        "hours": "07:30 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 15,
+        "hours": "07:30 - 17:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0197993,
+      "long": 23.7387354
+    },
+    "gaddress": "Polila 28, Athina 111 41, Greece"
+  },
+  {
+    "owner": "Μοσχοπούλου Ελένη",
+    "code": 21787,
+    "name": "Bρεφονηπιακός Σταθμός \"Παίζω και μαθαίνω\"",
+    "shortName": "Παίζω και μαθαίνω",
+    "postcode": "10446",
+    "address": "Θήρας 88",
+    "town": "Αθήνα",
+    "phones": [
+      "2108643452"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 3,
+        "hours": "07:00 - 16:30"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 14,
+        "hours": "07:00 - 16:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0025785,
+      "long": 23.7275206
+    },
+    "gaddress": "Thiras 88, Athina 104 46, Greece"
+  },
+  {
+    "owner": "Σελλή Χαρίκλεια",
+    "code": 21790,
+    "name": "\" Xara's Joy School \"",
+    "shortName": "Xara's Joy School",
+    "postcode": "10446",
+    "address": "Περγάμου 11 και Ρεμούνδου 23",
+    "town": "Αθήνα",
+    "phones": [
+      "2108812910"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 10,
+        "hours": "08:00 - 16:00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9988515,
+      "long": 23.7262579
+    },
+    "gaddress": "Pergamou 11, Athina 104 46, Greece"
+  },
+  {
+    "owner": "Πρωτόπαπα Μαρία",
+    "code": 21791,
+    "name": "Παιδικός Σταθμός \"Baby Smile\"",
+    "shortName": "Baby Smile",
+    "postcode": "11364",
+    "address": "Λέρου 9",
+    "town": "Αθήνα",
+    "phones": [
+      "2108624096"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 7,
+        "hours": "07:00 - 17:30"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 21,
+        "hours": "07:00 - 17:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0060495,
+      "long": 23.738649
+    },
+    "gaddress": "Lerou 9, Athina 113 64, Greece"
+  },
+  {
+    "owner": "Χήτου - Αυλωνίτου Φωτεινή",
+    "code": 21795,
+    "name": "\"Φωτεινή Ηλιαχτίδα\" (Προμπονά 43)",
+    "shortName": "Φωτεινή Ηλιαχτίδα",
+    "postcode": "11143",
+    "address": "Προμπονά 43",
+    "town": "Ανω Πατήσια",
+    "phones": [
+      "2102525250"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 18,
+        "hours": "07:30 - 16:30"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 91,
+        "hours": "07:30 - 16:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0287885,
+      "long": 23.7384941
+    },
+    "gaddress": "Prompona 43, Athina 111 43, Greece"
+  },
+  {
+    "owner": "Χήτου - Αυλωνίτου Φωτεινή",
+    "code": 21800,
+    "name": "Φωτεινή Ηλιαχτίδα\" (Χαλεπά 12)",
+    "shortName": "Φωτεινή Ηλιαχτίδα",
+    "postcode": "10445",
+    "address": "Χαλεπά 12",
+    "town": "Ανω Πατήσια",
+    "phones": [
+      "2102525250"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 32,
+        "hours": "07:30 - 16:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0173462,
+      "long": 23.7415783
+    },
+    "gaddress": "Chalepa 12Α, Athina 111 41, Greece"
+  },
+  {
+    "owner": "Καραβασίλη Βαρβάρα",
+    "code": 21840,
+    "name": "Παιδικός Σταθμός \"Τα Μελισσάκια\"",
+    "shortName": "Τα Μελισσάκια",
+    "postcode": "11471",
+    "address": "Βώνου 3",
+    "town": "Αθήνα",
+    "phones": [
+      "2106449497"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 15,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.9878817,
+      "long": 23.7476575
+    },
+    "gaddress": "Vonou 3, Neapoli Sikies 114 71, Greece"
+  },
+  {
+    "owner": "Δράκου Βασιλική - \"Φραουλίτσα\"",
+    "code": 29668,
+    "name": "Παιδικός Σταθμός \"Φραουλίτσα\"",
+    "shortName": "Φραουλίτσα",
+    "postcode": "11632",
+    "address": "Φιλεταίρου 10",
+    "town": "Αθήνα",
+    "phones": [
+      "2107017212"
+    ],
+    "ageCode": [
+      "Α1.1"
+    ],
+    "type": [
+      "Nursery"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 14,
+        "hours": "07:00 - 16:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.9628884,
+      "long": 23.7435623
+    },
+    "gaddress": "Fileterou 10, Athina 116 32, Greece"
+  },
+  {
+    "owner": "Έλσα Σταυροπούλου",
+    "code": 29791,
+    "name": "Βρεφονηπιακός Σταθμός \" Το Μέλι \"",
+    "shortName": "Το Μέλι",
+    "postcode": "11361",
+    "address": "Σπετζοπούλας 7",
+    "town": "Αθήνα",
+    "phones": [
+      "2108841180"
+    ],
+    "ageCode": [
+      "Α1.2",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "8 month - 2.5 years",
+        "ageValue": {
+          "from": 8,
+          "till": 30
+        },
+        "vacancies": 14,
+        "hours": "07:00 - 16:30"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 32,
+        "hours": "07:00 - 16:30"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.99910390000001,
+      "long": 23.7379733
+    },
+    "gaddress": "Spetsopoulas 7, Athina 113 61, Greece"
+  },
+  {
+    "owner": "Πανσελήνου Όλγα Ελευθερία-\nΚορεζελίδου Ελένη ΟΕ",
+    "code": 29827,
+    "name": "Παιδικός Σταθμός \"Η Ζεστή Φωλίτσα Μας\"",
+    "shortName": "Η Ζεστή Φωλίτσα Μας",
+    "postcode": "11363",
+    "address": "Μπερόβου 25",
+    "town": "Αθήνα",
+    "phones": [
+      "2108225388"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 18,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.9995747,
+      "long": 23.7465821
+    },
+    "gaddress": "Mperovou 25, Athina 113 63, Greece"
+  },
+  {
+    "owner": "Χριστίνα Δ. Θεοδωράτου και ΣΙΑ Ε.Ε.\n- Παιδικός Σταθμός με δ.τ.\n\"Κοντορεβιθούλης\"",
+    "code": 29912,
+    "name": "Παιδικός Σταθμός \"Κοντορεβιθούλης\"",
+    "shortName": "Κοντορεβιθούλης",
+    "postcode": "11364",
+    "address": "Πάρνηθος 10",
+    "town": "Αθήνα",
+    "phones": [
+      "2108676993",
+      "6974923045"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 4,
+        "hours": "07:00 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 28,
+        "hours": "07:00 - 17:00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 38.0054236,
+      "long": 23.7438222
+    },
+    "gaddress": "Parnithos 10, Athina 113 64, Greece"
+  },
+  {
+    "owner": "Παιδικός Σταθμός Η Ζωή Του\nΠαιδιού",
+    "code": 35534,
+    "name": "Παιδικός Σταθμός \"Η Ζωή Του Παιδιού\"",
+    "shortName": "Η Ζωή Του Παιδιού",
+    "postcode": "11354",
+    "address": "Σίφνου 10",
+    "town": "Αθήνα",
+    "phones": [
+      "2102232295",
+      "6934628438"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 20,
+        "hours": "07:00 - 17:00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 38.0104402,
+      "long": 23.7339377
+    },
+    "gaddress": "Sifnou 10, Athina 112 54, Greece"
+  },
+  {
+    "owner": "Σ. Κανατάς και Υιός Α.Ε.",
+    "code": 36664,
+    "name": "Η Μελωδία Της Ευτυχίας",
+    "shortName": "Η Μελωδία Της Ευτυχίας",
+    "postcode": "10445",
+    "address": "Στρατηγού Δαγκλή 51",
+    "town": "Αθήνα",
+    "phones": [
+      "2108543397"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 28,
+        "hours": "07:00 - 17:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0108895,
+      "long": 23.7234029
+    },
+    "gaddress": "Str. Dagkli 51, Athina 104 45, Greece"
+  },
+  {
+    "owner": "Β. και Π. Καντερέ Ο.Ε",
+    "code": 37309,
+    "name": "Παιδικός Σταθμός \"Γιουκάλι\"",
+    "shortName": "Γιουκάλι",
+    "postcode": "11144",
+    "address": "Κόσσου 8",
+    "town": "Αθήνα",
+    "phones": [
+      "2102280828"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 30,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0193754,
+      "long": 23.7321483
+    },
+    "gaddress": "Kossou 8, Athina 111 44, Greece"
+  },
+  {
+    "owner": "Μύρτος Ι. Κ. Ε.",
+    "code": 37349,
+    "name": "Βρεφονηπιακός Σταθμός ''Τρυφερή Αγκαλίτσα''",
+    "shortName": "Τρυφερή Αγκαλίτσα",
+    "postcode": "10446",
+    "address": "Καπάνεως 60",
+    "town": "Αθήνα",
+    "phones": [
+      "2105155396"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 4,
+        "hours": "07:00 - 16:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 12,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.994508,
+      "long": 23.7143148
+    },
+    "gaddress": "Kapaneos 60, Athina 104 44, Greece"
+  },
+  {
+    "owner": "Τσιαβού Ιωάννα",
+    "code": 43107,
+    "name": "Παιδικός Σταθμός \"Τα Χαρούμενα Ηλιοτρόπια\"",
+    "shortName": "Τα Χαρούμενα Ηλιοτρόπια",
+    "postcode": "11142",
+    "address": "Αμυκλών 50",
+    "town": "Αθήνα",
+    "phones": [
+      "2102520308"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 20,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0266762,
+      "long": 23.7495278
+    },
+    "gaddress": "Amiklon 50, Athina 111 42, Greece"
+  },
+  {
+    "owner": "Χριστόπουλος Βασίλειος",
+    "code": 44114,
+    "name": "Παιδικός Σταθμός \"Από το Α ως το Ω\"",
+    "shortName": "Από το Α ως το Ω",
+    "postcode": "11526",
+    "address": "Γ. Μπουσίου 34",
+    "town": "Αθήνα",
+    "phones": [
+      "2106980622",
+      "6936732300"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 18,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.9939605,
+      "long": 23.7718306
+    },
+    "gaddress": "Γ. Μπούσιου 34, Athina 115 26, Greece"
+  },
+  {
+    "owner": "Ιφιγένεια Πρεδάρη - Κωνσταντίνος\nΠαπαγαθαγγέλου Ο.Ε.",
+    "code": 44699,
+    "name": "Παιδικός Σταθμός \"Αερόστατο\"",
+    "shortName": "Αερόστατο",
+    "postcode": "11745",
+    "address": "Ευρυδάμαντος 48",
+    "town": "Αθήνα",
+    "phones": [
+      "2109337863"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 6,
+        "hours": "07:00 - 16:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 28,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.9548071,
+      "long": 23.715798
+    },
+    "gaddress": "Evridamantos 48, Athina 117 45, Greece"
+  },
+  {
+    "owner": "Θεοδωρίδου Συμέλα - Νικολέττα",
+    "code": 45576,
+    "name": "Παιδικός Σταθμός \"Βανίλια με Βατόμουρο\"",
+    "shortName": "Βανίλια με Βατόμουρο",
+    "postcode": "11364",
+    "address": "Καλλιφρονά 65",
+    "town": "Αθήνα",
+    "phones": [
+      "2108628610"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 20,
+        "hours": "07:00 - 18:00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 38.0044865,
+      "long": 23.7409378
+    },
+    "gaddress": "Kallifrona 65, Athina 113 64, Greece"
+  },
+  {
+    "owner": "Λάμπρης Γεώργιος -\n ́ ́Αγγελουλούδια''",
+    "code": 64059,
+    "name": "ΜΦΠΑΔ ''Αγγελουλούδια''",
+    "shortName": "Αγγελουλούδια",
+    "postcode": "10440",
+    "address": "Αλκαμένους 65",
+    "town": "Αθήνα",
+    "phones": [
+      "2114055745"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 8,
+        "hours": "07:00 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 18,
+        "hours": "07:00 - 17:00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9951865,
+      "long": 23.7244143
+    },
+    "gaddress": "Alkamenous 65, Athina 104 40, Greece"
+  },
+  {
+    "owner": "Τσιούρη Χρυσούλα \"Ασημένιο\nΔάσος\"",
+    "code": 64065,
+    "name": "Μ.Φ.Π.Α.Δ  ́ ́Ασημένιο Δάσος''",
+    "shortName": "Μ.Φ.Π.Α.Δ  ́ ́Ασημένιο Δάσος''",
+    "postcode": "11144",
+    "address": "Αγ. Λουκά 52Α",
+    "town": "Αθήνα",
+    "phones": [
+      "2102028662"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 15,
+        "hours": "06:30 - 18:30"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 38.0142005,
+      "long": 23.7345662
+    },
+    "gaddress": "Agiou Louka 52Α, Athina 111 44, Greece"
+  },
+  {
+    "owner": "Δίκτυο για τα δικαιώματα του\nπαιδιού",
+    "code": 64210,
+    "name": "ΚΔΑΠ  ́ ́Το Δίκτυο στην Τραϊμπερ'' Α βάρδια",
+    "shortName": "ΚΔΑΠ  ́ ́Το Δίκτυο στην Τραϊμπερ'' Α βάρδια",
+    "postcode": "10438",
+    "address": "Τραϊμπερ 8",
+    "town": "Αθήνα",
+    "phones": [
+      "2108846590"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 15,
+        "hours": "13:30-17:30"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9885427,
+      "long": 23.724613
+    },
+    "gaddress": "Traimper 8, Athina 104 38, Greece"
+  },
+  {
+    "owner": "Δίκτυο για τα δικαιώματα του\nπαιδιού",
+    "code": 64211,
+    "name": "ΚΔΑΠ  ́ ́ Το Δίκτυο στην Τραϊμπερ Β ́ βάρδια",
+    "shortName": "ΚΔΑΠ  ́ ́ Το Δίκτυο στην Τραϊμπερ Β ́ βάρδια",
+    "postcode": "10438",
+    "address": "Τραϊμπερ 8",
+    "town": "Αθήνα",
+    "phones": [
+      "2108846590"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 15,
+        "hours": "17:30-21:30"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9885427,
+      "long": 23.724613
+    },
+    "gaddress": "Traimper 8, Athina 104 38, Greece"
+  },
+  {
+    "owner": "Κ.Ε. Καβαλάρη ΕΠΕ",
+    "code": 65325,
+    "name": "Γουτουγουπατου",
+    "shortName": "Γουτουγουπατου",
+    "postcode": "11636",
+    "address": "Τριβωνιανού 60",
+    "town": "Αθήνα",
+    "phones": [
+      "2107562719"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 20,
+        "hours": "07:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.9664604,
+      "long": 23.7387412
+    },
+    "gaddress": "Trivonianou 60, Athina 116 36, Greece"
+  },
+  {
+    "owner": "Γκανούλης Κωννσταντίνος",
+    "code": 76145,
+    "name": "Βρεφονηπιακός Σταθμός \"Φιλοξενία\"",
+    "shortName": "Φιλοξενία",
+    "postcode": "11253",
+    "address": "ΝΙΚΟΠΟΛΕΩΣ 29",
+    "town": "ΑΘΗΝΑ",
+    "phones": [
+      "2108610310"
+    ],
+    "ageCode": [
+      "Α1.1",
+      "Α2"
+    ],
+    "type": [
+      "Nursery",
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 14,
+        "hours": "07:00 - 17:00"
+      },
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 21,
+        "hours": "07:00 - 17:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.0087871,
+      "long": 23.732773
+    },
+    "gaddress": "Nikopoleos 29, Athina 112 53, Greece"
+  },
+  {
+    "owner": "Zana Arapi",
+    "code": 76177,
+    "name": "\"Νεράΐδα των Ονείρων\"",
+    "shortName": "Νεράΐδα των Ονείρων",
+    "postcode": "11253",
+    "address": "Δάμωνος 20",
+    "town": "Αθήνα",
+    "phones": [
+      "6948748875"
+    ],
+    "ageCode": [
+      "Α2"
+    ],
+    "type": [
+      "Kindergarten"
+    ],
+    "available": [
+      {
+        "age": "2.5 years - school age",
+        "ageValue": {
+          "from": 30,
+          "till": "school"
+        },
+        "vacancies": 11,
+        "hours": "06:00 - 18:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 38.00642089999999,
+      "long": 23.7312982
+    },
+    "gaddress": "Damonos 20, Athina 112 53, Greece"
+  },
+  {
+    "owner": "Λευκές Καρδούλες ΙΚΕ",
+    "code": 76800,
+    "name": "\"Λευκές Καρδούλες\" ΙΚΕ",
+    "shortName": "Λευκές Καρδούλες",
+    "postcode": "10445",
+    "address": "Πεισιστράτου 5",
+    "town": "Αθήνα",
+    "phones": [
+      "6977104020"
+    ],
+    "ageCode": [
+      "Α1.1"
+    ],
+    "type": [
+      "Nursery"
+    ],
+    "available": [
+      {
+        "age": "2 month - 2.5 years",
+        "ageValue": {
+          "from": 2,
+          "till": 30
+        },
+        "vacancies": 9,
+        "hours": "08:00 - 16:00"
+      }
+    ],
+    "meals": true,
+    "coordinates": {
+      "lat": 37.996732,
+      "long": 23.7211985
+    },
+    "gaddress": "Pisistratou 5, Athina 104 45, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77097,
+    "name": "Κ.Δ.Α.Π. Κάτω Πετραλώνων - β' βάρδια (137ο Δημοτικό Σχολείο",
+    "shortName": "Κ.Δ.Α.Π. Κάτω Πετραλώνων - β' βάρδια (137ο Δημοτικό Σχολείο",
+    "postcode": "11853",
+    "address": "Αλκίφρονος 51-55",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082906",
+      "2132082907"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 18:00-20:\n00, Θερινό: 16:00-20:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9674059,
+      "long": 23.7033868
+    },
+    "gaddress": "Alkifronos 51-55, Athina 118 53, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77098,
+    "name": "Κ.Δ.Α.Π. Κάτω Πετραλώνων - α' βάρδια (137ο Δημοτικό Σχολείο",
+    "shortName": "Κ.Δ.Α.Π. Κάτω Πετραλώνων - α' βάρδια (137ο Δημοτικό Σχολείο",
+    "postcode": "11853",
+    "address": "Αλκιφρόνος 51-55",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082923",
+      "2132082924"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 16:00-18:\n00, Θερινό: 9:00-13:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9674059,
+      "long": 23.7033868
+    },
+    "gaddress": "Alkifronos 51-55, Athina 118 53, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77099,
+    "name": "Κ.Δ.Α.Π. Πλατείας Αττικής - α' βάρδια (99ο Δημοτικό Σχολείο",
+    "shortName": "Κ.Δ.Α.Π. Πλατείας Αττικής - α' βάρδια (99ο Δημοτικό Σχολείο",
+    "postcode": "10446",
+    "address": "Υγείας 11Α",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082923",
+      "2132082924"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 16:00-18:\n00, Θερινό: 9:00-13:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9973026,
+      "long": 23.7256264
+    },
+    "gaddress": "Igias 11, Athina 104 46, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77100,
+    "name": "Κ.Δ.Α.Π. Πλατείας Αττικής - β' βάρδια (99ο Δημοτικό Σχολείο",
+    "shortName": "Κ.Δ.Α.Π. Πλατείας Αττικής - β' βάρδια (99ο Δημοτικό Σχολείο",
+    "postcode": "10446",
+    "address": "Υγείας 11Α",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082923",
+      "2132082924"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 18:00-20:\n00, Θερινό: 16:00-20:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9973026,
+      "long": 23.7256264
+    },
+    "gaddress": "Igias 11, Athina 104 46, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77101,
+    "name": "Κ.Δ.Α.Π. Σεπολίων α ́βάρδια (128ο Δημοτικό Σχολείο Δήμου",
+    "shortName": "Κ.Δ.Α.Π. Σεπολίων α ́βάρδια (128ο Δημοτικό Σχολείο Δήμου",
+    "postcode": "10443",
+    "address": "Υγείας 11Α",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082923",
+      "2132082924"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 16:00-18:\n00, Θερινό: 9:00-13:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 38.0021175,
+      "long": 23.7133553
+    },
+    "gaddress": "Athens 104 43, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77102,
+    "name": "Κ.Δ.Α.Π. Σεπολίων β ́βάρδια (128ο Δημοτικό Σχολείο Δήμου",
+    "shortName": "Κ.Δ.Α.Π. Σεπολίων β ́βάρδια (128ο Δημοτικό Σχολείο Δήμου",
+    "postcode": "10443",
+    "address": "Υγείας 11Α",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082923",
+      "2132082924"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 18:00-20:\n00, Θερινό: 16:00-20:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 38.0021175,
+      "long": 23.7133553
+    },
+    "gaddress": "Athens 104 43, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77104,
+    "name": "Κ.Δ.Α.Π. Αγίου Αρτεμίου - β' βάρδια (123ο Δημοτικό Σχολείο",
+    "shortName": "Κ.Δ.Α.Π. Αγίου Αρτεμίου - β' βάρδια (123ο Δημοτικό Σχολείο",
+    "postcode": "11631",
+    "address": "Βαθυκλέους, Αμφικράτους, Ιλιάδους και Αναξάρχου 00",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082906",
+      "2132082907"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 18:00-20:\n00, Θερινό: 16:00-20:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9578118,
+      "long": 23.7401281
+    },
+    "gaddress": "Amfikratous & Vathikleous, Athina 116 31, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77105,
+    "name": "Κ.Δ.Α.Π. Εξαρχείων α' βάρδια (36ο Δημοτικό Σχολείο Δήμου",
+    "shortName": "Κ.Δ.Α.Π. Εξαρχείων α' βάρδια (36ο Δημοτικό Σχολείο Δήμου",
+    "postcode": "11473",
+    "address": "Ιουστινιανού 30-34",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082923",
+      "2132082924"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 16:00-18:\n00, Θερινό: 9:00-13:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9896594,
+      "long": 23.738816
+    },
+    "gaddress": "Ioustinianou 30, Athina 114 73, Greece"
+  },
+  {
+    "owner": "Δήμος Αθηναίων",
+    "code": 77106,
+    "name": "Κ.Δ.Α.Π. Εξαρχείων β' βάρδια (36ο Δημοτικό Σχολείο Δήμου",
+    "shortName": "Κ.Δ.Α.Π. Εξαρχείων β' βάρδια (36ο Δημοτικό Σχολείο Δήμου",
+    "postcode": "11473",
+    "address": "Iουστινιανού 30-34",
+    "town": "Αθήνα",
+    "phones": [
+      "2132082923",
+      "2132082924"
+    ],
+    "ageCode": [
+      "Γ"
+    ],
+    "type": [
+      "Creative center"
+    ],
+    "available": [
+      {
+        "age": "School age - 12 years and children with light physical disabilities of any age",
+        "ageValue": {
+          "from": "school",
+          "till": 144
+        },
+        "vacancies": 24,
+        "hours": "Χειμερινό: 18:00-20:\n00, Θερινό: 16:00-20:\n00"
+      }
+    ],
+    "meals": false,
+    "coordinates": {
+      "lat": 37.9896594,
+      "long": 23.738816
+    },
+    "gaddress": "Ioustinianou 30, Athina 114 73, Greece"
+  }
+]

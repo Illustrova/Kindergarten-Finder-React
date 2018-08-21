@@ -1,0 +1,164 @@
+.navbar-toggler {
+	width: 37px;
+	height: 27px;
+	vertical-align: middle;
+	outline: 0;
+	cursor: pointer;
+	border: 0;
+
+	&:hover .navbar-toggler-bar.bar2 {
+		width: 22px
+	}
+
+	&:focus {
+		outline: 1px dotted;
+	}
+}
+
+.navbar-toggler-bar {
+	display: block;
+	position: relative;
+	width: 22px;
+	height: 1px;
+	border-radius: 1px;
+	background: #66615b;
+}
+
+.navbar-toggler-bar+.navbar-toggler-bar {
+	margin-top: 7px
+}
+
+.navbar-toggler-bar+.navbar-toggler-bar.navbar-kebab {
+	margin-top: 3px
+}
+
+.bar1,.bar2,.bar3 {
+	outline: 1px solid transparent
+}
+
+.bar1 {
+	top: 0;
+	animation: p .5s 0s;
+	animation-fill-mode: forwards
+}
+
+.bar2 {
+	opacity: 1
+}
+
+.bar3 {
+	bottom: 0;
+	animation: r .5s 0s;
+	animation-fill-mode: forwards
+}
+
+.navbar-toggler-bar.bar2 {
+	width: 17px;
+	transition: width .2s linear
+}
+
+.sidebar-open {
+
+	.navbar-toggler-bar {
+		width: 24px
+	}
+
+	.navbar-toggler-bar+.navbar-toggler-bar {
+		margin-top: 5px
+	}
+
+	.bar1 {
+		top: 6px;
+		animation: o .5s 0s;
+		animation-fill-mode: forwards
+	}
+
+	.bar2 {
+		opacity: 0
+	}
+
+	.bar3 {
+		bottom: 6px;
+		animation: q .5s 0s;
+		animation-fill-mode: forwards
+	}
+}
+@keyframes o {
+	0% {
+		top: 0;
+		transform: rotate(0deg)
+	}
+
+	45% {
+		top: 6px;
+		transform: rotate(145deg)
+	}
+
+	75% {
+		transform: rotate(130deg)
+	}
+
+	to {
+		transform: rotate(135deg)
+	}
+}
+
+@keyframes p {
+	0% {
+		top: 6px;
+		transform: rotate(135deg)
+	}
+
+	45% {
+		transform: rotate(-10deg)
+	}
+
+	75% {
+		transform: rotate(5deg)
+	}
+
+	to {
+		top: 0;
+		transform: rotate(0)
+	}
+}
+
+@keyframes q {
+	0% {
+		bottom: 0;
+		transform: rotate(0deg)
+	}
+
+	45% {
+		bottom: 6px;
+		transform: rotate(-145deg)
+	}
+
+	75% {
+		transform: rotate(-130deg)
+	}
+
+	to {
+		transform: rotate(-135deg)
+	}
+}
+
+@keyframes r {
+	0% {
+		bottom: 6px;
+		transform: rotate(-135deg)
+	}
+
+	45% {
+		transform: rotate(10deg)
+	}
+
+	75% {
+		transform: rotate(-5deg)
+	}
+
+	to {
+		bottom: 0;
+		transform: rotate(0)
+	}
+}

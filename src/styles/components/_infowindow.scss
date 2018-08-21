@@ -1,0 +1,130 @@
+/* ====================== INFOWINDOW ==================== */
+
+/* ------------ PLACE DETAILS ------------ */
+.info_db {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0.5em;
+}
+
+.column {
+	text-align: left;
+	margin-right: auto;
+
+}
+
+.column:last-child {
+	width: 150px;
+}
+
+.column > div {
+	margin-bottom: 0.5em;
+}
+.place_age {
+	font-weight: bold;
+	color: darkorange;
+}
+
+.place_available_item {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.place_age {
+	flex-basis: 100%;
+}
+
+.place_meals {
+	margin-right: 1em;
+}
+
+.place_availability {
+	margin-right: 1em;
+}
+.meals_false {
+	color: red;
+}
+.meals_true {
+	color: green;
+}
+
+.separator {
+	display: table;
+	white-space: nowrap;
+	color: grey;
+	font-style: italic;
+	text-align: center;
+}
+
+.separator:before, .separator:after {
+	border-top: 1px solid lightgrey;
+	content: '';
+	display: table-cell;
+	position: relative;
+	top: 0.5em;
+	width: 45%;
+}
+
+.separator:before {
+	right: 1.5%;
+}
+.separator:after {
+	left: 1.5%;
+}
+
+/* ------------ FACEBOOK ELEMENTS ------------ */
+.info_fb {
+	margin-top: 0.5em;
+	width: 100%;
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+}
+.fb_description {
+	display: inline-block;
+	flex-basis: 75%;
+	text-align: justify;
+	margin-right: 0.25em;
+}
+
+.fb_rating {
+	margin: 0 0.25em;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.fb_rating i {
+	color: darkgoldenrod;
+	font-size: 2em;
+}
+
+.fb_likes {
+	margin-left: 0.25em;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+.fb_rating__number {
+	font-size: 2em;
+}
+
+.fb_likes i {
+	font-size: 2em;
+	color: darkblue;
+}
+.fb_likes__number {
+	font-size: 2em;
+}
+
+.fb_cover {
+	height: 150px;
+	overflow: hidden;
+	margin-top: 0.5em;
+}
+
+.fb_cover__image {
+	width: 100%;
+	height: auto;
+}
