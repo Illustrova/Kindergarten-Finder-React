@@ -85,7 +85,7 @@ export const createContent = (marker, place, data) => {
 
 		const dataCover = data.cover ?
 			`<div class="fb_cover">
-				<img class="fb_cover__image" src="${data.cover.source}">
+				<img class="fb_cover__image" src="${data.cover.source}" alt="${place.name}">
 			</div>` : '';
 
 		dataSection = `<div class="info_fb">

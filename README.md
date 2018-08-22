@@ -17,7 +17,8 @@ Backend script, which parses pdf to json and performs geocoding, to be uploaded 
 
 * Clone this repo: `git clone https://github.com/Illustrova/Kindergarten-Finder-React`
 * Install dependencies: `npm install`
-* Start application: `npm start`
+* Build App: `npm run build`
+* Serve locally: `serve -s build`
 
 ## Built with
 
