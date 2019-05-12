@@ -1,6 +1,7 @@
 {
-  "name": "neighbourhood",
+  "name": "Kindergarten-Finder-React",
   "version": "0.1.0",
+  "homepage": "https://illustrova.github.io/Kindergarten-Finder-React",
   "private": true,
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.4",
@@ -20,7 +21,9 @@
     "build-js": "react-scripts build",
     "build": "npm-run-all build-css build-js",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -33,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
